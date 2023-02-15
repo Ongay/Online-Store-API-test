@@ -1,0 +1,12 @@
+[
+  {
+    "product_name" : "Laptop",
+    "price" : 2000,
+    "product_id" : 1
+  },  
+  {
+    "product_name" : "Keyboard",
+    "price" : 100,
+    "product_id" : 2
+  }
+]
